@@ -514,69 +514,6 @@
       ],
       "status": "success"
     },
-    "ARAD_1K_0485": {
-      "image_path": "Train_RGB/ARAD_1K_0485.jpg",
-      "raw_output": "1.hat|Fabric|black|shadowed  \n2.bracelet|Metal|silver|shadowed  \n3.stool|Wood|dark brown|shadowed  \n4.backrest|Wood|black|shadowed  \n5.seat|Wood|black|shadowed  \n6.base|Metal|black|shadowed  \n7.surface|Plastic|black|shadowed",
-      "items": [
-        {
-          "object": "hat",
-          "material": "Fabric",
-          "color": "black",
-          "state": "shadowed",
-          "segmentation_query": "black hat",
-          "spectrum_query": "black Fabric hat"
-        },
-        {
-          "object": "bracelet",
-          "material": "Metal",
-          "color": "silver",
-          "state": "shadowed",
-          "segmentation_query": "silver bracelet",
-          "spectrum_query": "silver Metal bracelet"
-        },
-        {
-          "object": "stool",
-          "material": "Wood",
-          "color": "dark brown",
-          "state": "shadowed",
-          "segmentation_query": "dark brown stool",
-          "spectrum_query": "dark brown Wood stool"
-        },
-        {
-          "object": "backrest",
-          "material": "Wood",
-          "color": "black",
-          "state": "shadowed",
-          "segmentation_query": "black backrest",
-          "spectrum_query": "black Wood backrest"
-        },
-        {
-          "object": "seat",
-          "material": "Wood",
-          "color": "black",
-          "state": "shadowed",
-          "segmentation_query": "black seat",
-          "spectrum_query": "black Wood seat"
-        },
-        {
-          "object": "base",
-          "material": "Metal",
-          "color": "black",
-          "state": "shadowed",
-          "segmentation_query": "black base",
-          "spectrum_query": "black Metal base"
-        },
-        {
-          "object": "surface",
-          "material": "Plastic",
-          "color": "black",
-          "state": "shadowed",
-          "segmentation_query": "black surface",
-          "spectrum_query": "black Plastic surface"
-        }
-      ],
-      "status": "success"
-    },
     "ARAD_1K_0754": {
       "image_path": "Train_RGB/ARAD_1K_0754.jpg",
       "raw_output": "1.slide|Plastic|brown|shadowed  \n2.slide|Plastic|blue|shadowed  \n3.slide|Plastic|green|shadowed  \n4.playstructure|Paint|beige|shadowed  \n5.ground|Concrete|gray|shadowed  \n6.tree|Vegetation|green|shadowed  \n7.post|Paint|black|shadowed",
